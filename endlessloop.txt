@@ -1,0 +1,5 @@
+10 c = 1
+20 print c
+30 c = c + 10
+45 goto 10
+100 end 

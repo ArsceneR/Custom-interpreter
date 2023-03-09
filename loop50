@@ -1,0 +1,11 @@
+02 // Simple program to loop 50 times adding 5
+03 // version 10 Antonio Sanchez used to test MINIBASIC
+05 // initialize counter and variable
+08 // note that the syntax is very strict
+10 k = 5
+12 print k
+15 i = k * 8 / (2*0.5)
+17 print i
+19 c = 5
+20 c = 56*(78/c) / (56+6)
+21 print c 

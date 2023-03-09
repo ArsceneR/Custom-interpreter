@@ -1,0 +1,20 @@
+02 // Simple program to loop 50 times adding 5
+03 // version 1  Antonio Sanchez  used to test MINIBASIC
+05 // initialize counter and variable
+08 // note that the syntax is very strict 
+10 i = 0  
+20 c = 0
+40 print c
+43 // begin the loop 
+45 c =      c +     5
+70 print i   
+75 print c
+77 // test loop either to break or to repeat
+78 if( c = 5 ) goto 90 
+80 // increment counter i
+82 i = i + 1      
+83 goto 45 
+85 // end loop and print index plus counter
+90 d = c + i
+95 print d
+100 end         
