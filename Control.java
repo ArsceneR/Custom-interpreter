@@ -7,8 +7,7 @@ import java.awt.event.*;
 import java.util.*;
 
 /** The Control class that handles the communication  between the model and the view.
- * @author Arscene Rubayita
- * @version fall 2022, cosc 20403
+ * 
  */
 public class Control extends View  implements ActionListener,WindowListener
 
