@@ -6,7 +6,6 @@ import javax.swing.*;
 
 /** The Interpreter class that displays program output
  * @author Arscene Rubayita
- * @version fall 2022, cosc 20403
  */
 
 public class InterpreterFrame extends JFrame implements WindowListener
