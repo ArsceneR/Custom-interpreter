@@ -9,6 +9,7 @@ The Java Custom Interpreter is a project focused on creating an interpreter for 
 - Lightweight and user-friendly interpreter.
 - Supports fundamental control structures like loops and conditionals.
 - Easily extendable to incorporate new features into the custom language.
+- Ability to save programs directly from the interface.
 - Offers robust error handling with informative error messages.
 
 ## Getting Started
