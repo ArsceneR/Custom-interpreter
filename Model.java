@@ -5,8 +5,6 @@ import java.util.*;
 
 
 /** The Model class for executing the program
- * @author Arscene Rubayita
- * @version fall 2022
  * some ideas were taken and modified from
  * https://algorithms.tutorialhorizon.com/evaluation-of-infix-expressions/
  */
